@@ -40,7 +40,14 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 0;
+    width: auto;
+    margin-top: -1px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 21px;
   }
 
   .u-section-1 .u-text-3 {
