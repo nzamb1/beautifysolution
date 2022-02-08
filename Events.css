@@ -234,6 +234,15 @@
     min-height: 571px;
   }
 
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 709px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 37px;
+  }
+
   .u-section-2 .u-container-layout-3 {
     padding-top: 0;
     padding-bottom: 0;
