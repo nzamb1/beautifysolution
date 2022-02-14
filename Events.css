@@ -44,14 +44,7 @@
 }
 
 .u-section-2 .u-text-1 {
-  text-align: start;
-  margin: 30px 0 20px 20px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-2 .u-text-1 {
-    margin-left: 0;
-  }
+  margin-bottom: 60px;
 }.u-section-3 .u-sheet-1 {
   min-height: 1413px;
 }
